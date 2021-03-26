@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @milik27
+- 👀 I’m interested in JavaScript
+- 📫 How to reach me nikitati27@gmail.com
